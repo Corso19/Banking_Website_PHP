@@ -1,10 +1,10 @@
 # Site Bancar
-
+<pre>
 Web Banking emulator.
 
-The user can:<br>
-  -Make an account<br>
-  -Delete his/her account<br>
+The user can:
+  -Make an account
+  -Delete his/her account
   -Change password
   
 Database connectivity made with XAMPP web server.
