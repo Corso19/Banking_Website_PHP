@@ -1,6 +1,6 @@
 # Site Bancar
 
-Web Banking emulator.
+Web Banking simulation website for a fictional bank.
 
 The user can:
   -Make an account<br>
