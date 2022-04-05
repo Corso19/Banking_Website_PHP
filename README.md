@@ -1,4 +1,4 @@
-# Site Bancar
+# Web Banking website
 
 Web Banking simulation website for a fictional bank.
 
