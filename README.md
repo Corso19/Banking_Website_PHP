@@ -9,7 +9,7 @@ The user can:<br>
   
 Database connectivity made with XAMPP web server.
 
-<b> Main functionalities </b><br>
+<b style="font-size: 15px;"> Main functionalities </b><br>
   -Any customer that has a registered account in the bank database can insert all his/her transactions<br>
   -The bank provides the customer with an exchange rate table, budget percentages to better represent losses and increments to the customer's budget
 
