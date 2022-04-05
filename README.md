@@ -2,7 +2,7 @@
 
 Web Banking simulation website for a fictional bank.
 
-The user can:
+The user can:<br>
   -Make an account<br>
   -Delete his/her account<br>
   -Change password
